@@ -28,10 +28,7 @@ const Footer = () => {
                     height={30}
                   />
                 </Link>
-                <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
-                </p>
+               
                 <div className="flex items-center">
                   <a
                     href="/"
@@ -95,9 +92,9 @@ const Footer = () => {
 
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
+                {/* <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
                   Useful Links
-                </h2>
+                </h2> */}
                 <ul>
                   <li>
                     <a
@@ -105,7 +102,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Blog{" "}
+                      {/* Blog{" "} */}
                     </a>
                   </li>
                   <li>
@@ -114,7 +111,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Pricing{" "}
+                      {/* Pricing{" "} */}
                     </a>
                   </li>
                   <li>
@@ -123,7 +120,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      About{" "}
+                      {/* About{" "} */}
                     </a>
                   </li>
                 </ul>
@@ -133,7 +130,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Terms
+                  {/* Terms */}
                 </h2>
                 <ul>
                   <li>
@@ -142,7 +139,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      TOS{" "}
+                      {/* TOS{" "} */}
                     </a>
                   </li>
                   <li>
@@ -151,7 +148,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Privacy Policy{" "}
+                      {/* Privacy Policy{" "} */}
                     </a>
                   </li>
                   <li>
@@ -160,7 +157,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Refund Policy{" "}
+                      {/* Refund Policy{" "} */}
                     </a>
                   </li>
                 </ul>
@@ -170,7 +167,7 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Support & Help
+                  {/* Support & Help */}
                 </h2>
                 <ul>
                   <li>
@@ -179,7 +176,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Open Support Ticket{" "}
+                      {/* Open Support Ticket{" "} */}
                     </a>
                   </li>
                   <li>
@@ -188,7 +185,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Terms of Use{" "}
+                      {/* Terms of Use{" "} */}
                     </a>
                   </li>
                   <li>
@@ -197,7 +194,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      About{" "}
+                      {/* About{" "} */}
                     </a>
                   </li>
                 </ul>
@@ -208,7 +205,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and <a href="https://nextjstemplates.com" rel="nofollow noopener">Next.js Templates</a>
+              {/* Template by UIdeck and <a href="https://nextjstemplates.com" rel="nofollow noopener">Next.js Templates</a> */}
             </p>
           </div>
         </div>
